@@ -5,6 +5,7 @@
 - [ethereum developers](https://ethereum.org/en/developers/) เว็บไซต์เริ่มต้นในการที่ผมเริ่มหาข้อมูล
 - [ethereum local-environment](https://ethereum.org/en/developers/local-environment/) จัดเตรียมสภาพแวดล้อมภายในเพื่อเตรียมการพัฒนา ethereum
 - [developers learning-tools](https://ethereum.org/en/developers/learning-tools/) เครื่องมือที่ใช้ในการเรียนรู้และใช้งาน
+  - [remix.ethereum.org](https://remix.ethereum.org/)
   - [cryptozombies.io](https://cryptozombies.io/en/solidity)
 
 
